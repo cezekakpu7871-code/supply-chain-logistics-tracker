@@ -9,4 +9,4 @@ A Python implementation of an audit-backed shipment tracking system that logs ph
 
 ## Author
 - **Developer:** Chisomeme Ezekakpu
-- **Contact:** c.ezekakpu7871@miva.edu.ng
+- **Contact:** ezekakpuchisomeme@gmail.com
