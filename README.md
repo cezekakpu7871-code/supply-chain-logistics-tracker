@@ -10,3 +10,9 @@ A Python implementation of an audit-backed shipment tracking system that logs ph
 ## Author
 - **Developer:** Chisomeme Ezekakpu
 - **Contact:** ezekakpuchisomeme@gmail.com
+
+- ## How to Run
+
+1. Clone this repository (replace `cezekakpu7871-code` with your actual username):
+   ```bash
+   git clone [https://github.com/cezekakpu7871-code/supply-chain-logistics-tracker.git](https://github.com/cezekakpu7871-code/supply-chain-logistics-tracker.git)
